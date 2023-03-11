@@ -86,7 +86,7 @@ main {
 .peca-titulo {
     color: var(--main-branco);
     text-transform: uppercase;
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
 
 .controle {
@@ -154,6 +154,7 @@ main {
 .estatisticas {
     flex-basis: 23%;
     padding: 2em 2em 0;
+    height: 550px;
 }
 
 .estatistica {
